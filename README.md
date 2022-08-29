@@ -24,9 +24,6 @@ You can click the Preview link to take a look at your changes.
 
 ### 🛠 &nbsp;Tech Stack
 
-<div style="display: flex;" align="left">
-  <img alt="Night Coding" src="https://media2.giphy.com/media/FcqKy4Kj7XOK0hCW4g/giphy.gif?cid=ecf05e47am9nyld407i7kaoc1wej0ej2txds1p4tokizevj5&rid=giphy.gif&ct=g"/>
-
   ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
   ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
   ![Vue](https://img.shields.io/badge/-Vue-05122A?style=flat&logo=Vue&logoColor=FFA518)&nbsp;
@@ -47,4 +44,10 @@ You can click the Preview link to take a look at your changes.
   ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
   ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+  
+
+![Carlos Espindola's Github Stats](https://github-readme-stats-roan-one.vercel.app/api?username=victor-azevedo&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victor-azevedo&theme=dark&layout=compact&hide_border=true)
+
   
